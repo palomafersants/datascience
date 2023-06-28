@@ -20,6 +20,8 @@ E como se começa ... o que é estatística, dados, iformação ...
 
 De acordo com a Universidade de Cambriedge, estatística é a ciência que por meio de coleta, organização e estudo dos números descobre informações que tem certo valor, que tem a possibilidade de uso.
 
+
+
 <h1 align="center">
 <img src="image/estatistica.png"/>
 </h1>
