@@ -8,8 +8,14 @@
 
 Nesse repositório você irá encontrar projetos de data science com intuito de aperfeiçoar o meu conhecimento sobre o assunto, trazendo a prática por meio de python entre outras ferramentas.
 
+E como se começa ...
 
-
+<h1 align="center">
+<img src="https://github.com/palomafersants/datascience/blob/main/image/Loading_data.gif"/>
+</h1>
+<h5 align="center">
+  <a href="https://giphy.com/gifs/z1GQ9t8FxipnG">via GIPHY</a>
+</h5>
 
 ** Fonte de estudo: Pós Graduação - Descomplica
 
