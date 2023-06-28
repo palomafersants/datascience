@@ -10,7 +10,8 @@ Nesse repositório você irá encontrar projetos de data science com intuito de 
 
 
 
-** Fonte de estudo: Alura
+
+** Fonte de estudo: Pós Graduação - Descomplica
 
 
 ### Autora
