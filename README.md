@@ -26,6 +26,28 @@ De acordo com a Universidade de Cambriedge, estatística é a ciência que por m
 <img src="image/estatistica.png"/>
 </h1>
 
+Podemos dividir a estatística em dois tipos:
+
+|Estatística dedutiva|Estatística indutiva|
+|--------------------|--------------------|
+|Chamada também de DESCRITIVA, trata do comportamento dos dados, olhando primeiro o todo e indo para o particular.      |Chamada também de INFERENCIAL ou INFERÊNCIA ESTATÍSTICA trata do comportamento dos dados, olhando primeiro o particular e indo para o geral.|
+
+
+<h1 align="center">
+<img src="image/deducao_inducao.png"/>
+</h1>
+
+
+O uso de estatística pode ser feito em 7 passos:
+1. Definir um problema;
+2. Planejameto;
+3. Coleta de dados;
+4. Critica dos dados;
+5. Apuração dos dados;
+6. Apresentação dos dados;
+7. Análise e interpretação dos dados.
+
+
 
 ** Fonte de estudo: Pós Graduação - Descomplica
 
